@@ -1,8 +1,8 @@
-ent-BaseWhistle = whistle
-    .desc = Someone forgot to turn off a kettle?
+﻿ent-BaseWhistle = свисток
+    .desc = Кто-то забыл выключить чайник?
 ent-Whistle = { ent-BaseWhistle }
     .desc = { ent-BaseWhistle.desc }
 ent-SecurityWhistle = { ent-BaseWhistle }
-    .desc = The sound of it brings fear.
-ent-SyndicateWhistle = trench whistle
-    .desc = A whistle used by Syndicate commanders to draw attention. Avanti!
+    .desc = Его звук вызывает страх.
+ent-SyndicateWhistle = траншейный свисток
+    .desc = Свисток, используемый командирами Синдиката для привлечения внимания. Avanti!
