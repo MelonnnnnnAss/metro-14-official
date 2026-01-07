@@ -6,6 +6,7 @@ soft_max_players = 120
 map_rotation = false
 role_timers = false
 map_pool = "Metro14MapPool"
+defaultpreset = "Metro14MinimalPreset"
 lobbyenabled = true
 lobbyduration = 240
 round_restart_time = 240
@@ -13,7 +14,7 @@ secret_weight_prototype = "Metro14Default"
 contraband_examine = false
 
 [infolinks]
-discord = "https://discord.gg/nC9pFqH2"
+discord = "https://discord.gg/pCcMrtHjAV"
 patreon = "https://boosty.to/ssglobeshow"
 
 [rules]
@@ -23,6 +24,8 @@ time = 1.0
 emergency = false
 arrivals = false
 auto_call_time = 0
+grid_fill = false
+preload_grids = false
 
 [ic]
 flavor_text = true
