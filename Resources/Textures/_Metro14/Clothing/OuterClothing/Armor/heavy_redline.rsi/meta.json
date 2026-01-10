@@ -21,6 +21,21 @@
     {
       "name": "inhand-right",
       "directions": 4
+    },
+    {
+      "name": "KL-suit-icon"
+    },
+    {
+      "name": "KL-suit"
+      "directions": 4
+    },
+    {
+      "name": "KL-suit-inhand-left"
+      "directions": 4
+    },
+    {
+      "name": "KL-suit-inhand-right"
+      "directions": 4
     }
   ]
 }
