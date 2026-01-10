@@ -423,11 +423,11 @@
             "directions": 4
         },
         {
-            "name": "baby roro",
+            "name": "baby_roro",
             "directions": 4
         },
         {
-            "name": "baby roro eat",
+            "name": "baby_roro_eat",
             "delays": [
                 [
                     0.6,
@@ -437,17 +437,17 @@
             ]
         },
         {
-            "name": "baby roro dead"
+            "name": "baby_roro_dead"
         },
         {
-            "name": "baby roro dead-nocore"
+            "name": "baby_roro_dead-nocore"
         },
         {
-            "name": "adult roro",
+            "name": "adult_roro",
             "directions": 4
         },
         {
-            "name": "adult roro eat",
+            "name": "adult_roro_eat",
             "delays": [
                 [
                     0.6,
@@ -731,10 +731,10 @@
             "name": "ghost1"
         },
         {
-            "name": "roro egg-growing"
+            "name": "roro_egg-growing"
         },
         {
-            "name": "roro egg-grown"
+            "name": "roro_egg-grown"
         },
         {
             "name": "ghost_red",
