@@ -26,8 +26,8 @@
   id: ChlorineStalker
   name: газовый хлор
   group: Elements
-  desc: reagent-desc-Chlor-grenade
-  physicalDesc: газообразное
+  desc: reagent-desc-clorka
+  physicalDesc: reagent-physical-desc-chlorstalker
   flavor: bitter
   color: "#d2ff85"
   meltingPoint: -101.5
