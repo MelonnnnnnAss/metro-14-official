@@ -26,7 +26,7 @@
   id: ChlorineStalker
   name: газовый хлор
   group: Elements
-  desc: Химическое оружие
+  desc: reagent-desc-Chlor-grenade
   physicalDesc: газообразное
   flavor: bitter
   color: "#d2ff85"
