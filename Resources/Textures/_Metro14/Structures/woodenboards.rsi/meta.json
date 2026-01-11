@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "license": "Metro-14 CLA",
+  "copyright": "Create by loginsirs for Metro-14",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+  	{
+	  "name": "wood1",
+	  "directions": 4
+	},
+  	{
+	  "name": "wood2",
+	  "directions": 4
+	},
+  	{
+	  "name": "wood3",
+	  "directions": 4
+	},
+  	{
+	  "name": "wood4",
+	  "directions": 4
+	}
+  ]
+}
