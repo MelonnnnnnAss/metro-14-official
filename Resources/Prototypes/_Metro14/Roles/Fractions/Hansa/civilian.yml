@@ -4,6 +4,7 @@
   description: Следите за баром,проводите сталкеров,смотрите за грядками
   playTimeTracker: M14CivilianHansa
   startingGear: M14CivilianHansaGear
+  supervisors: job-supervisors-ganza
   icon: "JobIconHansa"
   canBeAntag: true
 

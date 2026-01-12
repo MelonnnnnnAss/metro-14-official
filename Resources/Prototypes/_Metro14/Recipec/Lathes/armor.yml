@@ -1,0 +1,7 @@
+- type: latheRecipe
+  id: M14ClothingOuterArmorPlateStalker
+  result: M14ClothingOuterArmorPlateStalker
+  completetime: 4
+  materials:
+    M14Steel: 300
+    M14Cloth: 500

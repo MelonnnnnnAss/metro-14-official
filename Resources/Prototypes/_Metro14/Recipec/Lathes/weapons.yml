@@ -29,3 +29,11 @@
   materials:
     M14Steel: 1250
     M14Wood: 1000
+
+- type: latheRecipe
+  id: M14Weaponak12
+  result: M14Weaponak12
+  completetime: 60
+  materials:
+    M14Steel: 1850
+    M14Plasteel: 800

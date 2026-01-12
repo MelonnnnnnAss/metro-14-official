@@ -1,0 +1,4 @@
+- type: latheRecipePack
+  id: M14Armor
+  recipes:
+  - M14ClothingOuterArmorPlateStalker
