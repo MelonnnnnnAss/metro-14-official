@@ -96,3 +96,18 @@
       sprite: _Metro14/Clothing/Uniforms/Jumpskirt/pilot.rsi
     - type: Clothing
       sprite: _Metro14/Clothing/Uniforms/Jumpskirt/pilot.rsi
+
+
+# RedLine skirts
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: M14ClothingUniformJumpskirtRedLine
+  name: юбка солдата красной линии
+  description: Последний писк моды, говорят что Виктория была тут, но это лишь слухи 
+  components:
+    - type: Sprite
+      sprite: _Metro14/Clothing/Uniforms/Jumpskirt/redline.rsi
+    - type: Clothing
+      sprite: _Metro14/Clothing/Uniforms/Jumpskirt/redline.rsi
+

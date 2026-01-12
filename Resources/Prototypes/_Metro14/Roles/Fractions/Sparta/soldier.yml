@@ -13,7 +13,7 @@
 - type: startingGear
   id: M14SoldierSpartaGear
   equipment:
-    jumpsuit: ClothingUniformJumpsuitOperative
+    jumpsuit: M14ClothingUniformJumpsuitSparta
     mask: ClothingMaskNeckGaiter
     id: M14Tablet
     shoes: ClothingShoesBootsCombatFilled
