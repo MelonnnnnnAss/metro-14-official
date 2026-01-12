@@ -14,7 +14,7 @@
   id: M14SoldierRedLineGear
   equipment:
     mask: ClothingMaskNeckGaiterRed
-    jumpsuit: M14ClothingUniformTelogreykaBlack
+    jumpsuit: M14ClothingUniformJumpsuitRedLine
     id: M14Tablet
     shoes: ClothingShoesBootsCombatFilled
     gloves: ClothingHandsGlovesFingerless

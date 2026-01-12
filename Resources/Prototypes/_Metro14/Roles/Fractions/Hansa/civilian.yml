@@ -10,7 +10,7 @@
 - type: startingGear
   id: M14CivilianHansaGear
   equipment:
-    jumpsuit: M14ClothingUniformTelogreykaBlack
+    jumpsuit: M14ClothingUniformJumpsuitcivilian
     id: M14Tablet
     shoes: ClothingShoesLeather
     back: ClothingBackpack

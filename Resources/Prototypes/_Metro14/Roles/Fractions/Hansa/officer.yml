@@ -14,7 +14,7 @@
   id: M14OfficerHansaGear
   equipment:
     head: ClothingHeadHatBeretMerc
-    jumpsuit: ClothingUniformJumpsuitTacticool
+    jumpsuit: M14ClothingUniformJumpsuitOfficer
     id: M14Tablet
     mask: ClothingMaskNeckGaiter
     gloves: ClothingHandsGlovesFingerless

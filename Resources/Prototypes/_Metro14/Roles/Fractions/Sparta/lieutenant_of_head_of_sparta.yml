@@ -15,7 +15,7 @@
   equipment:
     head: ClothingHeadHatBeretSecurityPilot
     mask: ClothingMaskNeckGaiter
-    jumpsuit: ClothingUniformJumpsuitTacticool
+    jumpsuit: M14ClothingUniformJumpsuitSparta
     id: M14Tablet
     shoes: ClothingShoesBootsCombatFilled
     gloves: ClothingHandsGlovesCombat

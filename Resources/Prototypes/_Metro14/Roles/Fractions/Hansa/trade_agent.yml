@@ -14,7 +14,7 @@
   id: M14TradeAgentHansaGear
   equipment:
     head: ClothingHeadHatBowlerHat
-    jumpsuit: M14ClothingUniformTelogreykaBlack
+    jumpsuit: M14ClothingUniformJumpsuitHansaTradeAgent
     id: M14Tablet
     gloves: ClothingHandsGlovesFingerless
     shoes: ClothingShoesBootsLaceup

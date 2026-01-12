@@ -15,7 +15,7 @@
   equipment:
     head: ClothingHeadHatBeretSeniorPhysician
     mask: ClothingMaskBreathMedicalSecurity
-    jumpsuit: ClothingUniformJumpsuitOperative
+    jumpsuit: M14ClothingUniformJumpsuitSparta
     id: M14Tablet
     shoes: ClothingShoesBootsWork
     gloves: ClothingHandsGlovesLatex

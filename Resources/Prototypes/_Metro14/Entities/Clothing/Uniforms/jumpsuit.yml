@@ -118,13 +118,46 @@
   - type: Clothing
     sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Hansa/trade_agent.rsi
 
+- type: entity
+  parent: ClothingUniformBase
+  id: M14ClothingUniformJumpsuitSecurityHansa
+  name: одежда охранника Ганзы
+  description: Одежда, используемая в основном охранниками Ганзы.
+  components:
+    - type: Sprite
+      sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Hansa/security.rsi
+    - type: Clothing
+      sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Hansa/security.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: M14ClothingUniformJumpsuitHeadofHansa
+  name: одежда начальника Кольцевой станции Ганзы
+  description: Одежда, используемая в основном начальниками станций Ганзы.
+  components:
+    - type: Sprite
+      sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Hansa/head_of_hansa.rsi
+    - type: Clothing
+      sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Hansa/head_of_hansa.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: M14ClothingUniformJumpsuitcivilian
+  name: одежда гражданина Ганзы
+  description: Одежда гражданина Ганзы которая популярная, вы не поверите. НА ГАНЗЕ!?!?
+  components:
+    - type: Sprite
+      sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Hansa/civilian.rsi
+    - type: Clothing
+      sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Hansa/civilian.rsi
+
 # Hydra
 
 - type: entity
   parent: M14UnsensoredClothingUniformBase
   id: M14ClothingUniformJumpsuitHydra
-  name: чёрная железнодорожная униформа
-  description: Чёрная железнодорожная униформа, которую раньше использовали машинисты поездов и прочих локомотивов.
+  name: Чёрная униформа железнодорожника
+  description: Чёрная униформа железнодорожника, которую раньше использовали машинисты поездов и прочих локомотивов.
   components:
   - type: Sprite
     sprite: _Metro14/Clothing/Uniforms/Jumpsuit/hydra.rsi
@@ -144,24 +177,16 @@
   - type: Clothing
     sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Sparta/sparta.rsi
 
-- type: entity
-  parent: M14UnsensoredClothingUniformBase
-  id: M14ClothingUniformJumpsuitSpartaLieutenantColonel
-  name: комбинезон подполковника Спарты
-  description: Чёрный комбинезон, который побывал в многих разных передряг.
-  components:
-  - type: Sprite
-    sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Sparta/sparta_lieutenant-colonel.rsi
-  - type: Clothing
-    sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Sparta/sparta_lieutenant-colonel.rsi
+
+# RedLine
 
 - type: entity
   parent: M14UnsensoredClothingUniformBase
-  id: M14ClothingUniformJumpsuitSpartaColonel
-  name: комбинезон полковника Спарты
+  id: M14ClothingUniformJumpsuitRedLine
+  name: комбинезон солдата красной линии
   description: Одежда ветерана спецопераций по спасению человечества. 
   components:
   - type: Sprite
-    sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Sparta/sparta_colonel.rsi
+    sprite: _Metro14/Clothing/Uniforms/Jumpsuit/redline.rsi
   - type: Clothing
-    sprite: _Metro14/Clothing/Uniforms/Jumpsuit/Sparta/sparta_colonel.rsi
+    sprite: _Metro14/Clothing/Uniforms/Jumpsuit/redline.rsi
