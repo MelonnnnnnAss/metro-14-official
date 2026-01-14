@@ -19,3 +19,7 @@
     shoes: ClothingShoesBootsCombatFilled
     back: ClothingBackpackMerc
     pocket1: M14HansaPassport
+  storage:
+    back:
+    - M14HansaPassport
+    - M14RadioHandheldHansa
