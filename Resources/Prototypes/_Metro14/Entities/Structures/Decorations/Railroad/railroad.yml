@@ -23,6 +23,7 @@
   - type: Icon
     sprite: _Metro14/Structures/Railroad/rails.rsi
     state: icon
+    
   - type: Tag
     tags:
       - Structure
