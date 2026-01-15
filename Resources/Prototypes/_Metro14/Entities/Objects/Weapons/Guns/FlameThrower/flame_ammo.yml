@@ -76,7 +76,6 @@
         density: 100
         shape: !type:PhysShapeCircle
           radius: 0.3
-        mass: 
         hard: false
         mask:
         - Impassable
